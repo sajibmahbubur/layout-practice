@@ -1,0 +1,80 @@
+.header{
+    height: 100px;
+    background-color: #FF9B9B;
+}
+
+div ul{
+    font-size: 20px;
+    
+    text-align: center;
+    padding-top: 40px;
+}
+div li{
+    display: inline;
+    padding-right: 20px;
+}
+div a{
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+
+.container{
+    overflow: hidden;
+    padding-top: 30px;
+}
+
+.blog{
+    width: 48%;
+    height:350px;
+    padding: 1%;
+    
+}
+.c1{
+    float: left;
+    background-color: #FFFEC4;
+    text-align: justify;
+    
+}
+.c2{
+    float: right;
+    background-color: #FFD6A5;
+    text-align: justify;
+}
+/* .contact{
+    float: right;
+    width: 30%;
+    height: 300px;
+    background-color: #FFFEC4;
+    /* border-left: 15px solid grey;
+    box-sizing: border-box; */
+
+.padding{
+        padding-bottom: 30px;
+    }
+
+.item{
+    float: left;
+    width: 33.33%;
+    height: 200px;
+    text-align: center;
+
+}
+.b1{
+    
+    background-color: #EA906C;
+    
+}
+.b2{
+    background-color: #E76161;
+}
+.b3{
+    background-color: #B04759;
+}
+.footer{
+    height: 90px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    
+}
